@@ -1,0 +1,19 @@
+{
+  "visualReview": true,
+  "references": [
+    {
+      "file": "미래엔_중학교수학2_교과서_8-2_확률의뜻.pdf",
+      "sha256": "011958e6ce2960aced6c2ed60d53d351da27f9398fd99702163f93c705e7f688",
+      "pdfPages": [
+        3
+      ],
+      "printedPages": [
+        241
+      ],
+      "review": "구별되는 두 주사위36가지, 합7의6가지, 등가능성 조건과 확률 의미 검토"
+    }
+  ],
+  "reviewImages": [
+    "curriculum/pearl-probability.png"
+  ]
+}

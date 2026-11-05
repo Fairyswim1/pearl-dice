@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-11-05T06:45:26.408284+00:00",
+  "browser": "Chrome via CUA",
+  "screenshots": [
+    "evidence/pearl-tutorial-mobile.png",
+    "evidence/pearl-final-mobile.png",
+    "evidence/pearl-final-desktop.png"
+  ],
+  "campaign": {
+    "rounds": 12,
+    "liveWin": 1,
+    "lateFailureAndRetry": 8,
+    "allSolutions": "Independent dynamic probability oracle and reachable wins all12 in automated tests",
+    "persistence": "banked1 held1 turns4 survives reload",
+    "bank": true,
+    "loss": "held3 lost on failed sum7; exhausted turns loses",
+    "outcomesGrid": "36 cases, even18/36 correctly rendered after form-feed escape repair"
+  },
+  "tutorial": {
+    "firstVisit": true,
+    "actualPracticeWin": true,
+    "keyboard": true,
+    "mobile": true,
+    "skip": true,
+    "replay": true,
+    "isolated": true,
+    "finalRegression": "Completed entire practice again after fraction fix; normal1/12 collection preserved"
+  },
+  "assessment": {
+    "codes": [
+      "9수04-05",
+      "9수04-06"
+    ],
+    "independent": true,
+    "hint": true,
+    "retry": true,
+    "persistence": true,
+    "report": true,
+    "mobile": true,
+    "export": true,
+    "details": "All6 UI tasks. u1 wrong12/help/retry36 excluded; u2 4, u3 11/36, u4 9/36, u5 unchanged, u6 .2 and6. Report1/2,2/2,2/2. Saved explanation/review reload. New profile0/0/0; back restores. HTML1498bytes downloaded."
+  },
+  "typography": {
+    "status": "passed",
+    "mobileWidth": 390,
+    "clientWidth": 374,
+    "scrollWidth": 374,
+    "notes": "Mobile generated horizontal buttons, desktop cards, tutorial overlay visually inspected. Notes fields at390 checked by DOM; screenshot failed after user focus changed."
+  },
+  "audio": {
+    "focus": true,
+    "energy": true,
+    "continuousAcrossRounds": true,
+    "soundTestClicked": true
+  },
+  "consoleErrors": [],
+  "fixedDefects": [
+    "Probability fraction contained form-feed; corrected and regression test added; fresh browser session no errors."
+  ],
+  "limits": [
+    "No student playtest",
+    "Dice game has chance; feasible victory is not guaranteed. Game win does not infer proficiency."
+  ],
+  "sourceHash": "b58c7d661467b9535ba6d305b0c34c432c1bd0672eb6cda77ec4b7034fb3176e"
+}

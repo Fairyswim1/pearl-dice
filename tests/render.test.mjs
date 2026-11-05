@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import {tex} from '../math-text.mjs';
+test('UI fractions contain no escaped control characters and render',async()=>{const source=await readFile(new URL('../app.mjs',import.meta.url),'utf8');assert.ok(!/[\x00-\x08\x0b\x0c\x0e-\x1f]/.test(source));for(const n of [1,6,9,11,18,33])assert.match(tex(String.raw`\frac{${n}}{36}`),/katex/)});

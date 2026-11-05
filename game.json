@@ -1,0 +1,36 @@
+{
+  "id": "pearl-dice",
+  "title": "펄 다이스",
+  "subtitle": "조개빛 탐험",
+  "grade": 2,
+  "unit": "8-1·8-2 경우의 수와 확률",
+  "category": "자료와 가능성",
+  "version": "1.0.0",
+  "description": "두 주사위의 눈 조건을 골라 진주를 모으는 확률 탐험. 가능한 경우와 보상을 비교하고, 더 도전할지 안전하게 보관할지 판단하며 열두 조개빛을 모아요.",
+  "tags": [
+    "경우의 수",
+    "확률",
+    "위험과 보상"
+  ],
+  "duration": "20–35분",
+  "assets": [
+    "assets/background.png",
+    "assets/atlas.png",
+    "assets/button.png"
+  ],
+  "campaign": {
+    "rounds": 12,
+    "collectibles": 12,
+    "ending": true
+  },
+  "generatedRoles": {
+    "background": "assets/background.png",
+    "character": "assets/atlas.png bottom-left",
+    "item": "assets/atlas.png top-left",
+    "round": "assets/atlas.png top-right",
+    "reward": "assets/atlas.png bottom-right",
+    "button": "assets/button.png"
+  },
+  "repository": "https://github.com/Fairyswim1/pearl-dice",
+  "repositoryStatus": "created"
+}

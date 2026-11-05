@@ -1,0 +1,42 @@
+{
+  "title": "진주빛 물결",
+  "origin": "Original synthesized stereo compositions; no third-party samples",
+  "profile": {
+    "title": "진주빛 물결",
+    "root": 62,
+    "bpm": 68,
+    "color": "glass",
+    "minor": false,
+    "motif": [
+      0,
+      7,
+      9,
+      4,
+      12,
+      9,
+      7,
+      2
+    ]
+  },
+  "generator": "scripts/compose-music.py",
+  "tracks": [
+    {
+      "mode": "focus",
+      "bpm": 68,
+      "seconds": 56.470566893424035,
+      "peak": 0.27352720549741333,
+      "rms": 0.061922856948561575,
+      "seamDelta": 0.004273496615974773,
+      "sha256": "f9dab07025a65055fa61884713ef6a6e3882de828c3a97f0adb5665661fc6952"
+    },
+    {
+      "mode": "energy",
+      "bpm": 92,
+      "seconds": 41.73913832199546,
+      "peak": 0.3621487513270913,
+      "rms": 0.07993255768646146,
+      "seamDelta": 0.012249418492574743,
+      "sha256": "11dfb48209bad4282944359e8f66707bc39fdf10cac8be6d5d8b8c7307e4f3df"
+    }
+  ]
+}
