@@ -1,0 +1,265 @@
+TAP version 13
+# Subtest: 36 equally likely ordered outcomes: different
+ok 1 - 36 equally likely ordered outcomes: different
+  ---
+  duration_ms: 1.7238
+  ...
+# Subtest: 36 equally likely ordered outcomes: even
+ok 2 - 36 equally likely ordered outcomes: even
+  ---
+  duration_ms: 0.2898
+  ...
+# Subtest: 36 equally likely ordered outcomes: odd
+ok 3 - 36 equally likely ordered outcomes: odd
+  ---
+  duration_ms: 0.2
+  ...
+# Subtest: 36 equally likely ordered outcomes: bothEven
+ok 4 - 36 equally likely ordered outcomes: bothEven
+  ---
+  duration_ms: 0.1814
+  ...
+# Subtest: 36 equally likely ordered outcomes: bothOdd
+ok 5 - 36 equally likely ordered outcomes: bothOdd
+  ---
+  duration_ms: 0.2757
+  ...
+# Subtest: 36 equally likely ordered outcomes: sum7
+ok 6 - 36 equally likely ordered outcomes: sum7
+  ---
+  duration_ms: 0.1211
+  ...
+# Subtest: 36 equally likely ordered outcomes: sum8
+ok 7 - 36 equally likely ordered outcomes: sum8
+  ---
+  duration_ms: 0.1948
+  ...
+# Subtest: 36 equally likely ordered outcomes: sum2
+ok 8 - 36 equally likely ordered outcomes: sum2
+  ---
+  duration_ms: 0.1144
+  ...
+# Subtest: 36 equally likely ordered outcomes: double
+ok 9 - 36 equally likely ordered outcomes: double
+  ---
+  duration_ms: 0.4221
+  ...
+# Subtest: 36 equally likely ordered outcomes: oneSix
+ok 10 - 36 equally likely ordered outcomes: oneSix
+  ---
+  duration_ms: 0.4177
+  ...
+# Subtest: 36 equally likely ordered outcomes: oneOne
+ok 11 - 36 equally likely ordered outcomes: oneOne
+  ---
+  duration_ms: 0.1819
+  ...
+# Subtest: 36 equally likely ordered outcomes: high
+ok 12 - 36 equally likely ordered outcomes: high
+  ---
+  duration_ms: 0.0964
+  ...
+# Subtest: 36 equally likely ordered outcomes: firstGreater
+ok 13 - 36 equally likely ordered outcomes: firstGreater
+  ---
+  duration_ms: 0.0825
+  ...
+# Subtest: 36 equally likely ordered outcomes: firstEven
+ok 14 - 36 equally likely ordered outcomes: firstEven
+  ---
+  duration_ms: 0.0856
+  ...
+# Subtest: 36 equally likely ordered outcomes: productEven
+ok 15 - 36 equally likely ordered outcomes: productEven
+  ---
+  duration_ms: 0.0791
+  ...
+# Subtest: 36 equally likely ordered outcomes: atMost8
+ok 16 - 36 equally likely ordered outcomes: atMost8
+  ---
+  duration_ms: 0.0954
+  ...
+# Subtest: 36 equally likely ordered outcomes: atMost10
+ok 17 - 36 equally likely ordered outcomes: atMost10
+  ---
+  duration_ms: 0.0734
+  ...
+# Subtest: 36 equally likely ordered outcomes: atLeast9
+ok 18 - 36 equally likely ordered outcomes: atLeast9
+  ---
+  duration_ms: 0.0825
+  ...
+# Subtest: 36 equally likely ordered outcomes: middle
+ok 19 - 36 equally likely ordered outcomes: middle
+  ---
+  duration_ms: 0.0911
+  ...
+# Subtest: 36 equally likely ordered outcomes: noSix
+ok 20 - 36 equally likely ordered outcomes: noSix
+  ---
+  duration_ms: 0.0856
+  ...
+# Subtest: Round 1 independent probability and reachable victory
+ok 21 - Round 1 independent probability and reachable victory
+  ---
+  duration_ms: 10.7669
+  ...
+# Subtest: Round 2 independent probability and reachable victory
+ok 22 - Round 2 independent probability and reachable victory
+  ---
+  duration_ms: 8.5146
+  ...
+# Subtest: Round 3 independent probability and reachable victory
+ok 23 - Round 3 independent probability and reachable victory
+  ---
+  duration_ms: 8.1139
+  ...
+# Subtest: Round 4 independent probability and reachable victory
+ok 24 - Round 4 independent probability and reachable victory
+  ---
+  duration_ms: 7.2115
+  ...
+# Subtest: Round 5 independent probability and reachable victory
+ok 25 - Round 5 independent probability and reachable victory
+  ---
+  duration_ms: 6.5513
+  ...
+# Subtest: Round 6 independent probability and reachable victory
+ok 26 - Round 6 independent probability and reachable victory
+  ---
+  duration_ms: 4.3567
+  ...
+# Subtest: Round 7 independent probability and reachable victory
+ok 27 - Round 7 independent probability and reachable victory
+  ---
+  duration_ms: 5.0393
+  ...
+# Subtest: Round 8 independent probability and reachable victory
+ok 28 - Round 8 independent probability and reachable victory
+  ---
+  duration_ms: 0.7062
+  ...
+# Subtest: Round 9 independent probability and reachable victory
+ok 29 - Round 9 independent probability and reachable victory
+  ---
+  duration_ms: 3.7366
+  ...
+# Subtest: Round 10 independent probability and reachable victory
+ok 30 - Round 10 independent probability and reachable victory
+  ---
+  duration_ms: 3.7399
+  ...
+# Subtest: Round 11 independent probability and reachable victory
+ok 31 - Round 11 independent probability and reachable victory
+  ---
+  duration_ms: 3.7612
+  ...
+# Subtest: Round 12 independent probability and reachable victory
+ok 32 - Round 12 independent probability and reachable victory
+  ---
+  duration_ms: 2.8235
+  ...
+# Subtest: Safest one-pearl condition cannot meet late goal, risk choice can
+ok 33 - Safest one-pearl condition cannot meet late goal, risk choice can
+  ---
+  duration_ms: 0.4943
+  ...
+# Subtest: Bank takes a turn, saves pearls, failure loses only held
+ok 34 - Bank takes a turn, saves pearls, failure loses only held
+  ---
+  duration_ms: 0.1396
+  ...
+# Subtest: No victory with unbanked pearls and no fake bank at zero
+ok 35 - No victory with unbanked pearls and no fake bank at zero
+  ---
+  duration_ms: 0.0973
+  ...
+# Subtest: Unbiased dice reject uint32 remainder tail and do not accept invalid actions
+ok 36 - Unbiased dice reject uint32 remainder tail and do not accept invalid actions
+  ---
+  duration_ms: 0.1592
+  ...
+# Subtest: Tutorial has explicit fixed victory and campaign levels are distinct
+ok 37 - Tutorial has explicit fixed victory and campaign levels are distinct
+  ---
+  duration_ms: 0.141
+  ...
+# Subtest: Independent task u1
+ok 38 - Independent task u1
+  ---
+  duration_ms: 2.5277
+  ...
+# Subtest: Independent task u2
+ok 39 - Independent task u2
+  ---
+  duration_ms: 0.2008
+  ...
+# Subtest: Independent task u3
+ok 40 - Independent task u3
+  ---
+  duration_ms: 0.1196
+  ...
+# Subtest: Independent task u4
+ok 41 - Independent task u4
+  ---
+  duration_ms: 0.0965
+  ...
+# Subtest: Independent task u5
+ok 42 - Independent task u5
+  ---
+  duration_ms: 0.0853
+  ...
+# Subtest: Independent task u6
+ok 43 - Independent task u6
+  ---
+  duration_ms: 0.0828
+  ...
+# Subtest: UI fractions contain no escaped control characters and render
+ok 44 - UI fractions contain no escaped control characters and render
+  ---
+  duration_ms: 17.7393
+  ...
+# Subtest: first visit always starts, including an old shared off URL
+ok 45 - first visit always starts, including an old shared off URL
+  ---
+  duration_ms: 1.5597
+  ...
+# Subtest: opening, abandoning, and refreshing do not mark the guide finished
+ok 46 - opening, abandoning, and refreshing do not mark the guide finished
+  ---
+  duration_ms: 1.2057
+  ...
+# Subtest: completion and explicit skip persist per game, with a clean shareable URL
+ok 47 - completion and explicit skip persist per game, with a clean shareable URL
+  ---
+  duration_ms: 4.257
+  ...
+# Subtest: old valid completion is preserved; corrupt or started records do not skip
+ok 48 - old valid completion is preserved; corrupt or started records do not skip
+  ---
+  duration_ms: 0.8526
+  ...
+# Subtest: replay and practice never overwrite campaign or assessment records
+ok 49 - replay and practice never overwrite campaign or assessment records
+  ---
+  duration_ms: 0.4429
+  ...
+# Subtest: blocked local storage uses session completion without a redirect loop
+ok 50 - blocked local storage uses session completion without a redirect loop
+  ---
+  duration_ms: 0.7119
+  ...
+# Subtest: both storage APIs blocked: same-tab history survives reload but shared URL does not skip
+ok 51 - both storage APIs blocked: same-tab history survives reload but shared URL does not skip
+  ---
+  duration_ms: 0.6441
+  ...
+1..51
+# tests 51
+# suites 0
+# pass 51
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 236.2942

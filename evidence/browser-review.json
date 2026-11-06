@@ -5,7 +5,8 @@
   "screenshots": [
     "evidence/pearl-tutorial-mobile.png",
     "evidence/pearl-final-mobile.png",
-    "evidence/pearl-final-desktop.png"
+    "evidence/pearl-final-desktop.png",
+    "evidence/first-visit-mobile.png"
   ],
   "campaign": {
     "rounds": 12,
@@ -62,5 +63,18 @@
     "No student playtest",
     "Dice game has chance; feasible victory is not guaranteed. Game win does not infer proficiency."
   ],
-  "sourceHash": "b58c7d661467b9535ba6d305b0c34c432c1bd0672eb6cda77ec4b7034fb3176e"
+  "sourceHash": "c857b0c2826ceff982e55a32354c5b4e62a247ca64f3960397c74319a96bcc25",
+  "firstVisitRevision": {
+    "checkedAt": "2026-11-06T04:44:59.998Z",
+    "id": "pearl-dice",
+    "firstVisitOff": true,
+    "startedStep": "진주를 안전하게 모아요",
+    "skipCleanUrl": true,
+    "reloadNoTour": true,
+    "replay": true,
+    "keyboardEscape": true,
+    "mobileWidth": 390,
+    "previousSourceHash": "b58c7d661467b9535ba6d305b0c34c432c1bd0672eb6cda77ec4b7034fb3176e",
+    "scope": "First-visit decision, isolated tutorial initialization, exit/reload and replay. Prior math and assessment browser evidence retained; existing automated suites rerun."
+  }
 }
